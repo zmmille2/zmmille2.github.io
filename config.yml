@@ -1,4 +1,9 @@
-	name: Zach Miller, Software Dev
-	markdown: kramdown
+title: Zach's site
+email: zmmille2@gmail.com
+name: Zach Miller, Software Dev
+github_username: zmmille2
+
+# Build settings
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 permalink: /404.html
