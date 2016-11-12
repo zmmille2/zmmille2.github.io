@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zach Miller, Horrible Dev, Launches Site"
+title: "Zach Miller, Software Dev, Launches Site"
 date: 2016-11-08
 ---
 
