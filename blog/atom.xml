@@ -11,7 +11,7 @@ layout: feed
 	<id>http://zmmille2.github.io/blog</id>
 	<author>
 		<name>Zach Miller</name>
-		<email>zmmille2hub@gmail.com</email>
+		<email>zmmille2@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
