@@ -3,7 +3,7 @@ email: zmmille2@gmail.com
 name: Zach Miller, Software Dev
 github_username: zmmille2
 
-# Build settings
+# Build settings, adding another edit to make this actually show up?
 markdown: kramdown
 theme: minima
 gems:
