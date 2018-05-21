@@ -6,7 +6,7 @@ date: 2018-05-20
 
 # Dominion is Great
 
-My brother and I started working together on a card game about a year ago.  As kids, we would always play around with making different card games, just as something to do together.  A favorite of ours is (Dominion)[https://boardgamegeek.com/boardgame/36218/dominion].  If you haven't played it, it's a game in which you build your deck as you play, using the cards that you draw to put more cards into your deck.  The goal of the game is to get the most points at the end of the game.  Points are represented by the numbers on victory cards that are green.
+My brother and I started working together on a card game about a year ago.  As kids, we would always play around with making different card games, just as something to do together.  A favorite of ours is [Dominion](https://boardgamegeek.com/boardgame/36218/dominion).  If you haven't played it, it's a game in which you build your deck as you play, using the cards that you draw to put more cards into your deck.  The goal of the game is to get the most points at the end of the game.  Points are represented by the numbers on victory cards that are green.
 
 <img src="/media/estate.png" alt="A victory card" title="A victory card"/>
 
