@@ -13,6 +13,24 @@ So, I want a twitter handle.  Big whoop.  Why should I get it?  After all, I'm s
 
 ### STEP 1: OPERATION ASK NICELY
 
-(https://twitter.com/zmessymoney/status/1024702543996190722)[I asked my top choice nicely if I could have the handle.]
+[I asked my top choice nicely if I could have the handle.](https://twitter.com/zmessymoney/status/1024702543996190722)
 
 I doubt this will work, but if it does work, it's probably the easiest way of making it work.  I'll give him a day or two to respond, but again, I'm not hopeful here.
+
+### STEP 2: TWITTER SUPPORT
+
+As of December 11th, 2018, [the account that I'd like has been suspended.](https://twitter.com/zach_miller)
+Unfortunately, I still can't register that account, [Twitter has a policy not to do so](https://help.twitter.com/en/rules-and-policies/inactive-twitter-accounts).
+
+This means that even if I were to contact Twitter support with another account, I'd still have to deal with this.  So I might as well consider step 3.
+
+### STEP 3: GET A TRADEMARK
+
+Yeah, it's ridiculous that I have to do this.
+Maybe I should just get big on Mastodon or something.
+Getting a trademark could cost me a couple hundred bucks.
+[Plus there's this whole process you gotta go through.](https://www.legalzoom.com/articles/how-to-trademark-a-name)
+
+That's about where we're at right now.
+I want the name, but unless I can find more value out of the trademark, it might be a no go.
+Even if I got the trademark, there's no guarantee that I'd be able to get that name.
