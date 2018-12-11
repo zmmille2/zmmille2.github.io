@@ -34,3 +34,7 @@ Getting a trademark could cost me a couple hundred bucks.
 That's about where we're at right now.
 I want the name, but unless I can find more value out of the trademark, it might be a no go.
 Even if I got the trademark, there's no guarantee that I'd be able to get that name.
+
+### STEP 3b: GET A MASTODON
+
+[I registered](https://mastodon.xyz/web/accounts/235232) [Mastodon accounts.](https://mastodon.technology/web/accounts/160900)
