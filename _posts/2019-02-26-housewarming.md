@@ -1,5 +1,3 @@
-# Housewarming
-
 ## Details
 
 **When:** March 8th, 2019, 8pm
