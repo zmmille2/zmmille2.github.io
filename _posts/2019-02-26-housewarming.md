@@ -1,6 +1,6 @@
 ## Details
 
-**When:** March 8th, 2019, 8pm
+**When:** TBD
 
 **Where:** My apartment! Ping me if you don't know where that is.  Sorry bots.
 
