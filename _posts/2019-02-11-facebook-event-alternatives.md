@@ -97,3 +97,7 @@ Email me zmmille2(at)gmail(dot)com.
 
 - [Why Nations Fail](https://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719227)
 - [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777)
+
+### Update
+
+My manager at work suggested [Evite](https://www.evite.com/) after I talked to him about this.  This looks pretty promising!
