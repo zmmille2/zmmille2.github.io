@@ -40,3 +40,9 @@ I could get a state level trademark: [Those only run about $55, and it might be 
 ### STEP 3b: GET A MASTODON
 
 [I registered](https://mastodon.xyz/web/accounts/235232) [Mastodon accounts.](https://mastodon.technology/web/accounts/160900)
+
+### STEP 4: GIVE UP
+
+Yep!
+Unfortunately, I just don't think it's worth it to register a trademark for the opportunity to get this handle.
+I would much rather see if I can post somewhat regular updates, and then try to pivot into getting the perfect handle.
