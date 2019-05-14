@@ -26,10 +26,15 @@ None of that has anything to do with the way you win, though.
 ### The Palace
 The game is all about fighting over tiles, and we wanted the win condition to reflect that.
 We had a special tile that was always in play called the Palace.
-<img src="/media/palace.png" alt="The palace tile" title="The palace tile"/>
 The palace was guarded by 3 Palace Guards.
-<img src="/media/palace guard.png" alt="The palace guard card" title="The palace guard card"/>
-Palace guards got weaker as the game went on, 
+
+<img src="media/palace.png" alt="3 palace guards with tokens." title="The palace"/>
+
+That beautifully rendered black rectangle is the palace.
+Fit for a king, I know.
+
+The tokens on the guards represent how strong the guards are at that moment.
+Palace guards got weaker as the game went on.
 If you won the Palace on any round, the game was over.
 
 There were a few problems with this setup.
@@ -42,7 +47,9 @@ But we didn't know what that fix would be for a while.
 
 ### Trap Cards
 Next, we had these trap cards.
-<img src="/media/trap.png" alt="A trap card" title="A trap card"/>
+
+<img src="media/stronghold.png" alt="Stronghold:  Resist means you have 2 extra points on defense on this tile." title="Stronghold"/>
+
 They weren't units, but they acted like units.
 You could lay traps instead of playing units, but your opponents would be none the wiser.
 The idea was that there might be a tile you had no interest in, but your opponents were fighting over pretty heavily.
@@ -55,24 +62,32 @@ Matt loved the idea of being able to do some subterfuge, but eventually we reali
 ### Action Cards
 Purge from that last section was an Action Card.
 Here's Purge.
-<img src="/media/purge.png" alt="Purge card" title="Purge card"/>
+
+<img src="media/purge.png" alt="Purge.  My baby, adding some cycle into the game is a great idea, but maybe this was not the right way to do it." title="Purge"/>
+
 I liked this card quite a bit, I like trashing in deck builders, it can make your deck feel much stronger by removing the bad.
 But the mechanics of the card don't matter too much here.
 Remember that flow from earlier?
+
 > **Draw Cards/Play Tiles** → **Play Actions** → **Play Units/Traps** → **Resolve Battles** → **Buy Cards**.
+
 There's a whole part of a round devoted to playing actions.
 Even worse, when players start out, they don't have any actions.
 So, this part of a round is usually skipped, and once people get used to it, it was really hard to get them to stop and remember that people might have actions to play.
 There were some actions that we had that we really liked, though.
-<img src="/media/wishing_star.png" alt="Wishing star card" title="Wishing star card"/>
+
+<img src="media/wishing_star.png" alt="Wishing star card" title="Wishing star card"/>
+
 But we found that we could turn these into units.
-<img src="/media/fortune_teller.png" alt="Fortune teller card" title="Fortune teller card"/>
+
+<img src="media/fortune_teller.png" alt="Fortune teller card" title="Fortune teller card"/>
+
 We didn't make this change until after we got rid of Traps, for some reason, but once we made this change it immediately felt right.
 
 ### Win Condition
 
 We didn't figure out the win condition for a long time.
-Even now, I think we've settled on it, but I'm not actually 100% sure this is what we'll end up with.
+Even now, while I think we've settled on it, it's not impossible to imagine that we end up with something completely different.
 Just a couple play sessions ago some folks testing it brought up a great idea which has kinda been in my head as a possibility, but for now I'll just talk about where the game has been.
 
 I talked about the Palace early in the post because it was such a cornerstone of the game for such a while.
@@ -84,5 +99,20 @@ Temptation to conquer all the surrounding lands while two bozos duked it out in 
 
 We talked about other things being win conditions, but coming up with different ways to win that don't just heavily reward one way of playing was really hard.
 A natural way to win was to collect tiles, but that punished cards like Supply Line and Thief, that might get you influence without having to win tiles.
-<img src="/media/supply_line.png" alt="Supply line card" title="Supply line card"/>
-<img src="/media/thief.png" alt="Thief card" title="Thief card"/>
+
+<img src="media/supply_line.png" alt="Supply line card" title="Supply line card"/>
+<img src="media/thief.png" alt="Thief card" title="Thief card"/>
+
+By the same token, just rewarding total influence won over the course of the game would be silly, as those same strategies are skewed the exact opposite direction.
+We wanted players to be able to build out a bunch of different armies, maybe small but powerful, or maybe armies that work with overwhelming numbers.
+We wanted building combos to be satisfying, whether that meant getting a lot of influence, or winning cards directly, or just pulling one over on your opponents!
+
+Right now what we've got working is an objective system.
+Eventually, I'll have a picture of what an objective looks like, but for now I just don't have any assets to show.
+Objectives are things like "Win the Meadow, Valley, or Mountain X times", or "Gain X influence from units (not tiles)".
+These even have a history to them, but given that I've been working on this blog post for about a month now(!), I'll wrap this up.
+
+For now, all I'll say is that that's the system that we ended up with.
+If you read this and have any interest, @ me and I'd be happy to write up another post.
+
+Till then, cya folks.
